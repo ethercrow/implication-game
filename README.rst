@@ -1,7 +1,7 @@
 Implication
 ===========
 
-.. image:: Implication-0.1.png
+.. image:: Implication-0.2.png
 
 Binary releases
 ---------------
